@@ -1,6 +1,6 @@
-# CommensurateSupercell
+# CommenSup
 
-Python tools for finding commensurate supercells for twisted bilayers and writing VASP POSCAR files.
+Python tools for finding commensurate supercells for twisted bilayer heterostructures and writing VASP POSCAR files.
 
 ## Installation
 
