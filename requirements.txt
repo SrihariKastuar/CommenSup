@@ -1,0 +1,3 @@
+# Required for numerical calculations and POSCAR output.
+numpy
+ase
